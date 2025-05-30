@@ -1,6 +1,8 @@
 # Silent-XMR-Miner
 Free XMR Miner With Built In Crypter
 
+
+
 Information:
 Free silent XMR miner. This readme will detail features, installation and the roadmap for this project.
 
