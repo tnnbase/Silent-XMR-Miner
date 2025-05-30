@@ -1,6 +1,7 @@
 # Silent-XMR-Miner
 Free XMR Miner With Built In Crypter
 
+![436783067-6e2f5d99-798e-44eb-b86c-40aa8f74c753](https://github.com/user-attachments/assets/0ef9d9a2-5328-43e2-a9d2-7973d581a49d)
 
 
 Information:
